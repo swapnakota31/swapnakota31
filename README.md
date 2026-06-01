@@ -1,16 +1,57 @@
-## Hi there 👋
+Hi 👋, I'm Sia
 
-<!--
-**swapnakota31/swapnakota31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Building real-world projects and gaining practical experience through code
 
-Here are some ideas to get you started:
+🎓 B.Tech Information Technology Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about Full-Stack Development, Backend Engineering, and AI
+
+⚡ Learning by building, experimenting, and solving real-world problems
+
+
+🛠️ Tech Stack
+
+Frontend
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Next.js
+
+Backend
+
+- Node.js
+- Express.js
+
+Database
+
+- PostgreSQL
+- MongoDB
+
+Languages
+
+- JavaScript
+- Python
+- Java
+
+---
+
+🎯 Current Focus
+
+- Full-Stack Development
+- Backend Development
+- Data Structures & Algorithms
+- AI & Emerging Technologies
+
+---
+
+📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/swapnakota3031
+---
+
+⚡ Fun Fact
+
+I enjoy debugging because every bug teaches me something new.
+
