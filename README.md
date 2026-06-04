@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Kot Sai Swapna</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer in Progress | 🤖 AI Enthusiast | 🎓 B.Tech IT Student
+🚀 Full Stack Web Developer  | 🤖 AI Enthusiast | 🎓 B.Tech IT Student
 </h3>
 
 <p align="center">
@@ -41,6 +41,22 @@ Building practical skills through real-world projects, one commit at a time.
 📈 Continuous Learning & Building
 
 ---
+
+🤝 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/swapnakota3031/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
+</a><a href="https://github.com/YOUR_USERNAME" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="40" width="40" />
+</a><a href="swapnakota3031@gmail.com">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="40" width="40" />
+</a>
+</p>💼 Follow my journey on LinkedIn
+
+🚀 Explore my projects on GitHub
+
+📧 Reach out for collaborations and discussions
 
 ## 🛠️ Tech Stack
 
